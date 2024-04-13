@@ -1,3 +1,7 @@
+![screencapture-localhost-3000-2024-04-13-23_37_52](https://github.com/jyotisingh-929/Netflix-Clone/assets/138880101/054248e7-dbe2-4bbd-aa4a-bd030195eedd)
+![screencapture-localhost-3000-signin-2024-04-13-23_40_24](https://github.com/jyotisingh-929/Netflix-Clone/assets/138880101/147a8ee9-a34e-4cd5-a6cf-9310ed3a2cde)
+![screencapture-localhost-3000-dashboard-2024-04-13-23_42_18](https://github.com/jyotisingh-929/Netflix-Clone/assets/138880101/3eae694f-be23-4dcd-98eb-12a45d324468)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
